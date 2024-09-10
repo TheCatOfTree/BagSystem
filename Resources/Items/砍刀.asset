@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 58fa3f58c28b46e4880d7a88ac3f704b, type: 3}
+  m_Name: "\u780D\u5200"
+  m_EditorClassIdentifier: 
+  itemID: 2
+  itemName: "\u780D\u5200"
+  maxCount: 1
+  canCreate: 1
+  text: "\u4F60\u8FD9\u4E2A\u74DC\u4FDD\u719F\u5417"
+  getMethod: 0
+  recipe: 4:5,5:2,7:5
+  type: 0
+  imagePath: 
